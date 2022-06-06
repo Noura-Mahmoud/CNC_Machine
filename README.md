@@ -19,7 +19,7 @@
 
 ## Modes
 - This CNC machine have 2 modes
-### * Mode using application to draw pictures 
+* ### Mode using application to draw pictures 
 > install *Benbox* application first
 
 > after opening it:
@@ -40,7 +40,7 @@
 python web_cam.py
 ``` -->
 
-### * Mode using Arduino IDE to draw saved shapes
+* ### Mode using Arduino IDE to draw saved shapes
 
 * Don't forget to update the *IP* address in the *esp_cnc.ino* code in *esp_cnc*, and in the *App.js* file in the *front_end* folder 
 
